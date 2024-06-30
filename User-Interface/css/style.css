@@ -722,7 +722,7 @@ nav.navbar.navbar-default {
 	line-height:2em;
 }
 .w3layouts_register_right form{
-	width: 80%;
+	width: 100%;
     padding: 2em;
     background:rgba(51, 158, 174, 0.62);
 }
@@ -1715,6 +1715,10 @@ input.email {
 }
 .w3ls_banner_bottom_grids {
     margin-top: 5em;
+    
+}
+.agileits_services_grid{
+    
 }
 /*-- //services --*/
 /*-- bootstrap-pop-up --*/
@@ -1807,7 +1811,7 @@ button.close {
     -moz-background-size: 3px;
     -o-background-size: 3px;
     -ms-background-size: 3px;--*/
-}
+
 /*-- //advantages --*/
 /*-- team --*/
 .team-heading h3{
