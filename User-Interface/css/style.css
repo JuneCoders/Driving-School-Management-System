@@ -724,7 +724,7 @@ nav.navbar.navbar-default {
 .w3layouts_register_right form{
 	width: 100%;
     padding: 2em;
-    background:rgba(51, 158, 174, 0.62);
+    background:#339eae;
 }
 .w3layouts_register_right input[type="text"],.w3layouts_register_right input[type="email"]{
 	outline: none;
