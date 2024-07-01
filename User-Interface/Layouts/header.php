@@ -10,6 +10,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false);
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //custom-theme -->
+<link rel="shortcut icon" href="./images/" type="image/x-icon">
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
 <!-- js -->
@@ -33,8 +34,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 		<div class="header_right">
 			<div class="w3_agile_login">
-				<div class="news">
-					<a href="#"><input type="submit" value="Login" style="color: black;"></a>
+			<div class="news">
+					<a href="./login_direction.html"><input type="submit" value="Login" style="color: black;"></a>
 					<!-- cd-header-buttons -->
 				</div>
 			</div>
