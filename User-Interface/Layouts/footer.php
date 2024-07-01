@@ -7,11 +7,10 @@
 						<h4>Address</h4>
 					</div>
 					<div class="footer-grid-info">
-						<p>Eiusmod Tempor inc
-							<span>St Dolore Place,Kingsport 56777.</span>
+						<p>Mes Golden Jubilee College 56777.</span>
 						</p>
-						<p class="phone">Phone : +1 123 456 789
-							<span>Email : <a href="mailto:example@email.com">mail@example.com</a></span>
+						<p class="phone">Phone : +91 8590343392
+							<span>Email : <a href="mailto:joyalshaji135@gmail.com">joyalshaji135@gmail.com</a></span>
 						</p>
 					</div>
 				</div>
@@ -22,10 +21,10 @@
 					<div class="footer-grid-info">
 						<ul>
 							<li><a href="index.html">Home</a></li>
-							<li><a href="lessons.html">Lessons</a></li>
-							<li><a href="about.html">About</a></li>
-							<li><a href="icons.html">Icons</a></li>
-							<li><a href="mail.html">Mail</a></li>
+							<li><a href="#">About</a></li>
+							<li><a href="#">Driving School</a></li>
+							<li><a href="#">Users Feedbacks</a></li>
+							<li><a href="#">Mail Us</a></li>
 						</ul>
 					</div>
 				</div>
@@ -60,7 +59,7 @@
 				<div class="clearfix"> </div>
 			</div>
 			<div class="agileits-w3layouts-copyright">
-				<p>© 2017 Driving School . All Rights Reserved | Design by <a href="http://w3layouts.com/"> W3layouts</a> </p>
+				<p>© 2024 Driving School . All Rights Reserved | Design by <a href="https://joyal-shaji.netlify.app/"> Joyal Shaji</a> </p>
 			</div>
 		</div>
 	</div>
